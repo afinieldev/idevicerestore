@@ -2,8 +2,6 @@
 
 *A command-line application to restore firmware files to iOS devices.*
 
-![](https://github.com/libimobiledevice/idevicerestore/actions/workflows/build.yml/badge.svg)
-
 ## Features
 
 The idevicerestore application is a full reimplementation of all granular steps
@@ -74,7 +72,7 @@ clone [these libraries](https://github.com/libimobiledevice/) separately and rep
 
 Continue with cloning the actual project repository:
 ```shell
-git clone https://github.com/libimobiledevice/idevicerestore.git
+https://github.com/afinieldev/idevicerestore.git
 cd idevicerestore
 ```
 
